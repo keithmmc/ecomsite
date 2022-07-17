@@ -1,0 +1,8 @@
+C:\Users\keith\Source\Repos\ecomsite\ecomsite\obj\Debug\net6.0\ecomsite.csproj.AssemblyReference.cache
+C:\Users\keith\Source\Repos\ecomsite\ecomsite\obj\Debug\net6.0\ecomsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keith\Source\Repos\ecomsite\ecomsite\obj\Debug\net6.0\ecomsite.AssemblyInfoInputs.cache
+C:\Users\keith\Source\Repos\ecomsite\ecomsite\obj\Debug\net6.0\ecomsite.AssemblyInfo.cs
+C:\Users\keith\Source\Repos\ecomsite\ecomsite\obj\Debug\net6.0\ecomsite.csproj.CoreCompileInputs.cache
+C:\Users\keith\Source\Repos\ecomsite\ecomsite\obj\Debug\net6.0\ecomsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\keith\Source\Repos\ecomsite\ecomsite\obj\Debug\net6.0\ecomsite.RazorAssemblyInfo.cache
+C:\Users\keith\Source\Repos\ecomsite\ecomsite\obj\Debug\net6.0\ecomsite.RazorAssemblyInfo.cs
